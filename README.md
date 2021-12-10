@@ -2,8 +2,7 @@
 
 # 🎥 Overview:
 
-![App's homepage](./.github/ignews01.png)
-![App's posts page](./.github/ignews02.png)
+![App's gif](./.github/reactNews.gif)
 
 <br />
 
