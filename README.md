@@ -2,7 +2,7 @@
 
 # 🎥 Overview:
 
-![App's gif](./.github/reactNews.gif)
+![App's gif](./public/reactNews.gif)
 
 <br />
 
