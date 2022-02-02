@@ -1,4 +1,4 @@
-<h1 align="center">react.news</h1>
+<h1 align="center">ReactNews</h1>
 
 # 🎥 Overview:
 
