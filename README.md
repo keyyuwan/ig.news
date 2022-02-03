@@ -2,7 +2,8 @@
 
 # 🎥 Overview:
 
-![App's gif](./public/reactNews.gif)
+![User with subscription](./public/ReactNewsSub.gif)
+![User without subscription](./public/ReactNewsNotSub.gif)
 
 <br />
 
